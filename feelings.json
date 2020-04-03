@@ -1,0 +1,26 @@
+[
+    {
+        "feel" : "'I feel great about the world!'",
+        "result" : "happy"
+    },
+    {
+        "feel" : "The world is a terrible place!",
+        "result" : "Sad"
+    },
+    {
+        "feel" : "That's nice day !",
+        "result" : "happy"
+    },
+    {
+        "feel" : "It will be good",
+        "result" : "happy"
+    },
+    {
+        "feel" : "bad and tired",
+        "result" : "Sad"
+    },
+    {
+        "feel" : "my team is lose",
+        "result" : "Sad"
+    }    
+]
